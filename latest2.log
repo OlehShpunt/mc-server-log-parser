@@ -1,0 +1,153 @@
+NO LOG FILE! - setting up server logging...
+[2024-06-15 06:48:27:279 INFO] Starting Server
+[2024-06-15 06:48:27:279 INFO] Version: 1.21.0.03
+[2024-06-15 06:48:27:279 INFO] Session ID: 892dc66a-2ffe-4cf5-a757-52114be0adc0
+[2024-06-15 06:48:27:279 INFO] Build ID: 24692107
+[2024-06-15 06:48:27:279 INFO] Branch: r/21
+[2024-06-15 06:48:27:279 INFO] Commit ID: 158de25742efa1cb1ac8b8a59487bf42d0f10b0f
+[2024-06-15 06:48:27:279 INFO] Configuration: Publish
+[2024-06-15 06:48:27:279 INFO] Level Name: myServ2
+[2024-06-15 06:48:27:280 INFO] No CDN config file found for dedicated server
+[2024-06-15 06:48:27:280 INFO] Game mode: 0 Survival
+[2024-06-15 06:48:27:280 INFO] Difficulty: 2 NORMAL
+[2024-06-15 06:48:27:280 INFO] Content logging to console is enabled.
+[2024-06-15 06:48:27:497 INFO] Opening level 'worlds/myServ2/db'
+[2024-06-15 06:48:27:528 INFO] [Packs] [SERVER] Pack Stack
+
+[2024-06-15 06:48:27:864 INFO] IPv4 supported, port: 19205: Used for gameplay
+[2024-06-15 06:48:27:864 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2024-06-15 06:48:27:868 INFO] Server started.
+[2024-06-15 06:48:27:868 INFO] ================ TELEMETRY MESSAGE ===================
+[2024-06-15 06:48:27:868 INFO] Server Telemetry is currently not enabled.
+[2024-06-15 06:48:27:868 INFO] Enabling this telemetry helps us improve the game.
+[2024-06-15 06:48:27:868 INFO]
+[2024-06-15 06:48:27:868 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2024-06-15 06:48:27:868 INFO] to the server.properties file in the handheld/src-server directory
+[2024-06-15 06:48:27:868 INFO] ======================================================
+[2024-06-15 06:48:27:868 INFO] [Scripting] No script plugins found.
+
+[2024-06-15 06:51:10:169 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 06:51:12:262 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 06:51:15:180 INFO] Player connected: JustOlezha, xuid: 2535453251387037
+[2024-06-15 06:51:17:586 INFO] Player Spawned: JustOlezha xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 06:51:53:465 INFO] Player disconnected: JustOlezha, xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 06:52:41:605 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 06:52:59:415 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 06:53:00:935 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 06:54:24:170 INFO] Player connected: MellowConch8924, xuid: 2535412518106603
+[2024-06-15 06:54:26:785 INFO] Player Spawned: MellowConch8924 xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 06:54:53:469 INFO] Player connected: JustOlezha, xuid: 2535453251387037
+[2024-06-15 06:54:56:636 INFO] Player Spawned: JustOlezha xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 06:57:23:089 INFO] Player disconnected: MellowConch8924, xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 06:58:59:750 INFO] Player disconnected: JustOlezha, xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 07:09:13:870 INFO] Player connected: MellowConch8924, xuid: 2535412518106603
+[2024-06-15 07:09:15:485 INFO] Player Spawned: MellowConch8924 xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 07:10:22:066 INFO] Player disconnected: MellowConch8924, xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 07:11:20:015 INFO] Player connected: MellowConch8924, xuid: 2535412518106603
+[2024-06-15 07:11:21:485 INFO] Player Spawned: MellowConch8924 xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 07:12:28:681 INFO] Player connected: Andruha2103, xuid: 2535412538168943
+[2024-06-15 07:12:31:035 INFO] Player Spawned: Andruha2103 xuid: 2535412538168943, pfid: 8978f15f02bdbe2a
+[2024-06-15 07:17:54:150 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 07:18:04:680 INFO] Player disconnected: MellowConch8924, xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 07:18:17:505 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 07:18:19:836 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 07:18:23:380 INFO] Player connected: JustOlezha, xuid: 2535453251387037
+[2024-06-15 07:18:26:236 INFO] Player Spawned: JustOlezha xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 07:20:49:438 INFO] Player disconnected: Andruha2103, xuid: 2535412538168943, pfid: 8978f15f02bdbe2a
+[2024-06-15 07:21:33:680 INFO] Player connected: Andruha2103, xuid: 2535412538168943
+[2024-06-15 07:21:36:186 INFO] Player Spawned: Andruha2103 xuid: 2535412538168943, pfid: 8978f15f02bdbe2a
+[2024-06-15 07:26:45:630 INFO] Player disconnected: Andruha2103, xuid: 2535412538168943, pfid: 8978f15f02bdbe2a
+[2024-06-15 07:27:40:210 INFO] Player disconnected: JustOlezha, xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 07:32:09:455 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 07:37:03:559 INFO] Running AutoCompaction...
+[2024-06-15 07:43:03:577 INFO] Running AutoCompaction...
+[2024-06-15 07:49:03:578 INFO] Running AutoCompaction...
+[2024-06-15 07:53:20:020 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 07:53:23:436 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 08:04:51:605 INFO] Player connected: JustOlezha, xuid: 2535453251387037
+[2024-06-15 08:04:53:935 INFO] Player Spawned: JustOlezha xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 08:07:53:838 INFO] Player disconnected: JustOlezha, xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 08:19:45:437 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 08:21:30:745 INFO] Running AutoCompaction...
+[2024-06-15 08:27:30:760 INFO] Running AutoCompaction...
+[2024-06-15 08:33:30:761 INFO] Running AutoCompaction...
+[2024-06-15 08:35:15:020 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 08:35:15:835 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 08:41:21:568 INFO] Running AutoCompaction...
+[2024-06-15 08:45:06:700 INFO] Player connected: Dima Vorob, xuid: 2535435156733082
+[2024-06-15 08:45:08:787 INFO] Player Spawned: Dima Vorob xuid: 2535435156733082, pfid: 2ab0e93cf92b217f
+[2024-06-15 08:46:38:661 INFO] Player connected: Dimas1k11, xuid: 2535439826915051
+[2024-06-15 08:46:41:185 INFO] Player Spawned: Dimas1k11 xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 08:48:56:500 INFO] You whisper to Dima Vorob, Dimas1k11, RomanSuperSila: privit
+[2024-06-15 08:49:31:990 INFO] You whisper to Dimas1k11, Dima Vorob, RomanSuperSila: зараз я зайду гляну як лагає
+[2024-06-15 08:50:16:680 INFO] Player connected: JustOlezha, xuid: 2535453251387037
+[2024-06-15 08:50:19:386 INFO] Player Spawned: JustOlezha xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 08:51:08:045 INFO] You whisper to Dima Vorob, JustOlezha, Dimas1k11, RomanSuperSila: тільки що був дуже пінг високий
+[2024-06-15 08:51:17:406 ERROR] Unknown command: хм. Please check that the command exists and that you have permission to use it.
+[2024-06-15 08:53:00:920 ERROR] Syntax error: Unexpected "БУ": at "/title @a >>БУ<<"
+[2024-06-15 08:53:07:331 ERROR] Syntax error: Unexpected "": at "title БУ>><<"
+[2024-06-15 08:53:31:964 ERROR] Syntax error: Unexpected "10": at "/title @a >>10<< bb"
+[2024-06-15 08:54:38:285 INFO] Title command successfully executed
+[2024-06-15 08:54:49:620 INFO] Player disconnected: JustOlezha, xuid: 2535453251387037, pfid: 422d568e2ac7c333
+[2024-06-15 08:54:55:859 INFO] Title command successfully executed
+[2024-06-15 08:55:31:444 INFO] Title command successfully executed
+[2024-06-15 09:12:26:784 INFO] Player disconnected: Dimas1k11, xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 09:16:49:414 INFO] Player disconnected: Dima Vorob, xuid: 2535435156733082, pfid: 2ab0e93cf92b217f
+[2024-06-15 09:22:57:129 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 09:23:46:779 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 09:23:47:709 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 09:26:24:439 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 09:27:23:484 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 09:27:25:104 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 09:32:32:724 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 09:33:29:034 INFO] Running AutoCompaction...
+[2024-06-15 09:38:48:034 INFO] Player connected: MellowConch8924, xuid: 2535412518106603
+[2024-06-15 09:38:48:854 INFO] Player Spawned: MellowConch8924 xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 09:39:59:949 INFO] Player disconnected: MellowConch8924, xuid: 2535412518106603, pfid: 1144ef8fb50c0c88
+[2024-06-15 09:44:52:053 INFO] Running AutoCompaction...
+[2024-06-15 09:50:52:060 INFO] Running AutoCompaction...
+[2024-06-15 09:56:52:060 INFO] Running AutoCompaction...
+[2024-06-15 10:02:52:061 INFO] Running AutoCompaction...
+[2024-06-15 10:03:20:134 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 10:03:22:209 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 10:09:26:750 INFO] Running AutoCompaction...
+[2024-06-15 10:26:50:314 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 10:31:40:280 INFO] Running AutoCompaction...
+[2024-06-15 10:35:52:244 INFO] Player connected: Dimas1k11, xuid: 2535439826915051
+[2024-06-15 10:35:53:155 INFO] Player Spawned: Dimas1k11 xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 10:36:42:519 INFO] Player disconnected: Dimas1k11, xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 10:37:40:014 INFO] Player connected: Dimas1k11, xuid: 2535439826915051
+[2024-06-15 10:37:41:709 INFO] Player Spawned: Dimas1k11 xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 10:38:44:057 INFO] Player disconnected: Dimas1k11, xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 10:42:59:249 INFO] Player connected: Dimas1k11, xuid: 2535439826915051
+[2024-06-15 10:43:00:155 INFO] Player Spawned: Dimas1k11 xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 10:43:43:314 INFO] Running AutoCompaction...
+[2024-06-15 10:44:29:762 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 10:44:31:459 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 10:45:41:394 INFO] Player disconnected: Dimas1k11, xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 10:47:06:494 INFO] Player connected: Mykola45, xuid: 2535439388984483
+[2024-06-15 10:47:08:306 INFO] Player Spawned: Mykola45 xuid: 2535439388984483, pfid: 6da9942834f1a4ab
+[2024-06-15 10:52:53:704 INFO] Player disconnected: Mykola45, xuid: 2535439388984483, pfid: 6da9942834f1a4ab
+[2024-06-15 10:54:33:939 INFO] Player connected: Mykola45, xuid: 2535439388984483
+[2024-06-15 10:54:35:459 INFO] Player Spawned: Mykola45 xuid: 2535439388984483, pfid: 6da9942834f1a4ab
+[2024-06-15 11:01:08:639 INFO] Player connected: Dimas1k11, xuid: 2535439826915051
+[2024-06-15 11:01:10:905 INFO] Player Spawned: Dimas1k11 xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 11:09:04:039 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 11:13:41:108 INFO] Player disconnected: Dimas1k11, xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 11:16:23:954 INFO] Player connected: Andruha2103, xuid: 2535412538168943
+[2024-06-15 11:16:26:104 INFO] Player Spawned: Andruha2103 xuid: 2535412538168943, pfid: 8978f15f02bdbe2a
+[2024-06-15 11:19:59:325 INFO] Player connected: RomanSuperSila, xuid: 2535408594338313
+[2024-06-15 11:20:01:105 INFO] Player Spawned: RomanSuperSila xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 11:39:26:554 INFO] Player disconnected: Andruha2103, xuid: 2535412538168943, pfid: 8978f15f02bdbe2a
+[2024-06-15 11:42:06:599 INFO] Player disconnected: RomanSuperSila, xuid: 2535408594338313, pfid: ec0e5b95c0689f4f
+[2024-06-15 11:55:08:281 INFO] Running AutoCompaction...
+[2024-06-15 12:11:33:529 INFO] Player connected: Dimas1k11, xuid: 2535439826915051
+[2024-06-15 12:11:35:709 INFO] Player Spawned: Dimas1k11 xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 12:15:53:789 INFO] Player connected: Dima Vorob, xuid: 2535435156733082
+[2024-06-15 12:15:56:060 INFO] Player Spawned: Dima Vorob xuid: 2535435156733082, pfid: 2ab0e93cf92b217f
+[2024-06-15 12:40:34:825 INFO] Player disconnected: Dimas1k11, xuid: 2535439826915051, pfid: 55ac8e0c30b265c4
+[2024-06-15 12:41:05:344 INFO] Player disconnected: Dima Vorob, xuid: 2535435156733082, pfid: 2ab0e93cf92b217f
+[2024-06-15 12:45:03:669 INFO] Player disconnected: Mykola45, xuid: 2535439388984483, pfid: 6da9942834f1a4ab
+[2024-06-15 12:50:03:849 INFO] Running AutoCompaction...
+[2024-06-15 12:56:03:855 INFO] Running AutoCompaction...
+[2024-06-15 13:02:03:855 INFO] Running AutoCompaction...
